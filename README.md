@@ -1,6 +1,6 @@
 # Hi there! 👋 Welcome to My GitHub Profile
 
-![GitHub Banner](https://i.imgur.com/[your-image-link](https://unsplash.com/photos/a-laptop-computer-with-a-bunch-of-different-screens-on-top-of-it-XV2kGdTo9II).png)
+![GitHub Banner](https://cdn.pixabay.com/photo/2015/12/04/14/05/code-1076536_1280.jpg)
 
 ## 🚀 About Me
 

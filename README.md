@@ -1,9 +1,5 @@
 # Hi there! 👋 Welcome to My GitHub Profile
 
-![GitHub Banner]([https://cdn.pixabay.com/photo/2015/12/04/14/05/code-1076536_1280.jpg))
-
-###
-
 ## 🚀 About Me
 
 - 🔭 I’m currently working on **exciting projects in web development and AI**.

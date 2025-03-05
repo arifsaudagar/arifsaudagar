@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on **exciting projects in web development and AI**.
 - 🌱 I’m learning **React, Node.js, and Machine Learning**.
 - 💬 Ask me about **JavaScript, Python, and Open Source**.
-- 📫 How to reach me: **arifsaudagar95@gmail.com (mailto:arifsaudagar95@gmail.com)**
+- 📫 How to reach me: **[arifsaudagar95@gmail.com] (mailto:arifsaudagar95@gmail.com)**
 - ⚡ Fun fact: **I love coffee and late-night coding!** ☕
 
 ## 🛠️ Tech Stack

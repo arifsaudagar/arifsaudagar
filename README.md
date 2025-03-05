@@ -1,8 +1,6 @@
 # Hi there! 👋 Welcome to My GitHub Profile
 
-![GitHub Banner]<div align="center">
-  <img height="200" src="https://cdn.pixabay.com/photo/2015/12/04/14/05/code-1076536_1280.jpg"  />
-</div>
+![GitHub Banner](https://cdn.pixabay.com/photo/2015/12/04/14/05/code-1076536_1280.jpg)
 
 ###
 

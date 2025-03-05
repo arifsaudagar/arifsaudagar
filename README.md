@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on **exciting projects in web development and AI**.
 - 🌱 I’m learning **React, Node.js, and Machine Learning**.
 - 💬 Ask me about **JavaScript, Python, and Open Source**.
-- 📫 How to reach me: **[your.email@example.com](mailto:your.email@example.com)**
+- 📫 How to reach me: **arifsaudagar95@gmail.com(mailto:arifsaudagar95@gmail.com)**
 - ⚡ Fun fact: **I love coffee and late-night coding!** ☕
 
 ## 🛠️ Tech Stack
@@ -21,9 +21,9 @@
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arifsaudagar95&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arifsaudagar&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arifsaudagar95&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arifsaudagar&layout=compact&theme=radical)
 
 ## 📫 Connect With Me
 
